@@ -40,7 +40,7 @@ A pixel cat on the desktop: walks over windows, comments on what's going on, lis
 <a href="https://github.com/artemspt/mewmori-linux"><img src="https://veyron.online/img/mewmori.webp" alt="Mewmori" width="100%"></a>
 
 ### [Vynkor](https://github.com/vynkor-core/vynkor)
-A personal cloud in a single Rust daemon. Plugins in any language run as isolated processes, and your phone joins as a device.
+A personal cloud in a single Rust daemon. Plugins in any language run as isolated processes, and your phone joins as a device. Built together with [@MrSolusdev](https://github.com/MrSolusdev).
 
 ### [Prism Launcher Horizon](https://github.com/artemspt/PrismLauncher-Horizon)
 A launcher based on Prism Launcher that installs and runs Horizon next to your regular instances.
